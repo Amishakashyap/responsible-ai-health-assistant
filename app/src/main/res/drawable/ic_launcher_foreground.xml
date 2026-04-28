@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0"
+        android:fillColor="#1a5a6f"/>
+    <!-- Running figure outline -->
+    <group android:translateX="54" android:translateY="54">
+        <!-- Head -->
+        <path
+            android:pathData="M 0,-15 C -3.314,-15 -6,-12.314 -6,-9 C -6,-5.686 -3.314,-3 0,-3 C 3.314,-3 6,-5.686 6,-9 C 6,-12.314 3.314,-15 0,-15 Z"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="1.5"
+            android:fillColor="#1a5a6f"
+            android:strokeLineCap="round"/>
+        <!-- Body -->
+        <path
+            android:pathData="M 0,-3 L 0,5"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"/>
+        <!-- Left arm (back) -->
+        <path
+            android:pathData="M 0,-1 L -8,2"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"/>
+        <!-- Right arm (forward) -->
+        <path
+            android:pathData="M 0,-1 L 8,-5"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"/>
+        <!-- Left leg (forward) -->
+        <path
+            android:pathData="M 0,5 L -6,15"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"/>
+        <!-- Right leg (back) -->
+        <path
+            android:pathData="M 0,5 L 4,12"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"/>
+    </group>
+</vector>

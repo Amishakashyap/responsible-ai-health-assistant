@@ -1,0 +1,55 @@
+## Android ##
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+captures/
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Local properties (do not commit API keys or signing config)
+local.properties
+
+# Keystore (do not commit signing keys)
+*.keystore
+*.jks
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Kotlin incremental compilation
+.kotlin/
+
+# Test results
+test-results/
+
+# Profiling
+captures/

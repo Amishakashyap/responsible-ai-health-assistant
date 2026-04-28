@@ -1,0 +1,98 @@
+Dish,Ingredients,Steps,Cuisine
+Poha,"2 cups flattened rice, 1 onion finely chopped, 2 tbsp peanuts, 1 green chilli, 1/2 tsp mustard seeds, 1/2 tsp turmeric, curry leaves, salt, lemon juice, oil","Wash poha and drain excess water. Heat oil in a pan, add mustard seeds and curry leaves. Add peanuts and roast. Add onion and chilli and saute until soft. Add turmeric and salt. Add poha and mix gently. Cook for 2 minutes. Switch off flame and add lemon juice. Serve hot.",Maharashtrian
+Kanda Poha,"2 cups poha, 1 onion, peanuts, mustard seeds, turmeric, green chilli, curry leaves, salt, lemon","Wash poha. Heat oil, add mustard seeds, curry leaves, peanuts. Add onion and saute. Add turmeric and salt. Add poha and mix well. Cook 2 minutes and add lemon juice.",Maharashtrian
+Upma,"1 cup rava, 1 onion, vegetables, mustard seeds, curry leaves, ginger, salt, oil","Dry roast rava. Heat oil, add mustard seeds and curry leaves. Add onion, ginger and vegetables. Add water and salt. When boiling, add rava slowly and stir. Cook until thick.",South Indian
+Idli,"2 cups rice, 1 cup urad dal, salt","Soak rice and dal for 6 hours. Grind and ferment overnight. Add salt. Pour batter into idli moulds and steam for 10 minutes.",South Indian
+Masala Dosa,"Dosa batter, potatoes, onion, mustard seeds, turmeric, curry leaves","Prepare potato masala by cooking potatoes and tempering with spices. Spread dosa batter on tawa. Place filling inside and fold.",South Indian
+Sambar,"Toor dal, mixed vegetables, tamarind, sambar powder, mustard seeds","Cook dal. Boil vegetables with tamarind and spices. Add dal. Temper mustard seeds and add to sambar.",South Indian
+Vegetable Biryani,"Basmati rice, vegetables, curd, spices, mint, coriander","Cook rice separately. Cook vegetables with spices and curd. Layer rice and vegetables. Cook on dum for 10 minutes.",Hyderabadi
+Paneer Butter Masala,"Paneer, tomatoes, butter, cream, cashew paste, spices","Make tomato-cashew gravy. Add paneer cubes and cream. Cook for 5 minutes. Serve with naan.",Punjabi
+Palak Paneer,"Spinach, paneer, garlic, onion, spices","Blanch spinach and blend. Cook onion-garlic. Add puree and spices. Add paneer cubes and cook.",North Indian
+Chole,"Chickpeas, onion, tomato, ginger garlic, spices","Soak chickpeas overnight. Pressure cook. Make onion-tomato gravy. Add chickpeas and simmer.",Punjabi
+Rajma,"Kidney beans, onion, tomato, spices","Soak rajma overnight. Pressure cook. Prepare gravy. Add beans and simmer.",North Indian
+Dal Tadka,"Toor dal, garlic, cumin, ghee","Cook dal. Heat ghee, add garlic and cumin. Pour over dal.",Indian
+Aloo Gobi,"Potato, cauliflower, onion, spices","Saute onion and spices. Add potatoes and cauliflower. Cook covered until tender.",North Indian
+Bhindi Masala,"Ladyfinger, onion, tomato, spices","Fry bhindi till crisp. Prepare onion tomato masala. Add bhindi and mix.",Indian
+Baingan Bharta,"Brinjal, onion, tomato, garlic","Roast brinjal. Mash and cook with onion tomato and spices.",North Indian
+Veg Pulao,"Rice, vegetables, whole spices","Saute spices and vegetables. Add rice and water. Cook till done.",Indian
+Curd Rice,"Rice, curd, mustard seeds, curry leaves","Mix curd with rice. Temper mustard and curry leaves. Mix and serve cold.",South Indian
+Pav Bhaji,"Mixed vegetables, butter, pav, spices","Boil and mash vegetables. Cook with butter and spices. Serve with toasted pav.",Mumbai
+Samosa,"Potatoes, peas, spices, maida","Prepare filling. Stuff into dough. Deep fry till golden.",Indian
+Gulab Jamun,"Milk powder, flour, sugar syrup","Make dough balls. Fry on low flame. Soak in sugar syrup.",Indian
+Masala Chai,"2 cups water, 1 cup milk, 2 tsp tea leaves, ginger, cardamom, sugar","Boil water with ginger and cardamom. Add tea leaves and boil for 2 minutes. Add milk and sugar. Boil again and strain.",Indian
+Filter Coffee,"2 tbsp coffee powder, 1 cup hot milk, sugar","Prepare decoction using coffee powder. Heat milk. Mix decoction with milk and sugar.",South Indian
+Vegetable Cutlet,"Mixed vegetables, bread crumbs, spices, oil","Boil and mash vegetables. Add spices and bread crumbs. Shape into patties and shallow fry.",Indian
+Aloo Tikki,"Potatoes, green peas, spices, bread crumbs, oil","Mash potatoes and peas. Add spices. Shape into tikkis and fry till golden.",Street Food
+Veg Manchurian,"Cabbage, carrot, cornflour, soy sauce, garlic","Make vegetable balls and fry. Prepare sauce. Toss balls in sauce.",Indo-Chinese
+Fried Rice,"Cooked rice, vegetables, soy sauce, garlic","Stir fry garlic and vegetables. Add rice and sauces. Toss well.",Indo-Chinese
+Hakka Noodles,"Noodles, vegetables, soy sauce, vinegar","Boil noodles. Stir fry vegetables. Add noodles and sauces. Toss.",Indo-Chinese
+Paneer Fried Rice,"Paneer, rice, vegetables, sauces","Stir fry paneer and vegetables. Add rice and sauces. Mix well.",Indo-Chinese
+Vegetable Momos,"Flour, cabbage, carrot, garlic, ginger","Prepare dough. Fill vegetables. Steam momos for 10 minutes.",Tibetan
+Paneer Momos,"Flour, paneer, onion, spices","Prepare dough. Fill paneer mixture. Steam till cooked.",Tibetan
+Veg Spring Roll,"Spring roll sheets, vegetables, sauces","Prepare vegetable filling. Roll in sheets and deep fry.",Indo-Chinese
+Veg Burger,"Burger buns, vegetable patty, lettuce, sauce","Cook patty. Assemble burger with veggies and sauces.",Fast Food
+Cheese Sandwich,"Bread, cheese, butter, pepper","Apply butter, place cheese, grill till golden.",Indian
+Corn Sandwich,"Bread, boiled corn, butter, spices","Mix corn with spices. Fill bread and grill.",Indian
+Vegetable Soup,"Mixed vegetables, garlic, pepper","Boil vegetables. Blend and simmer with spices.",Indian
+Tomato Soup,"Tomatoes, garlic, pepper, cream","Boil tomatoes and blend. Cook with spices and cream.",Indian
+Sweet Corn Soup,"Sweet corn, vegetables, pepper","Boil corn and vegetables. Simmer and season.",Indo-Chinese
+Paneer Pakora,"Paneer, besan, spices, oil","Dip paneer in batter and deep fry.",Indian
+Bread Pakora,"Bread, potato filling, besan","Stuff bread with potato. Dip in batter and fry.",Indian
+Moong Dal Chilla,"Moong dal, ginger, spices","Soak dal, grind batter. Cook like dosa.",Indian
+Butter Chicken,"Chicken, tomatoes, butter, cream, ginger garlic, spices","Marinate chicken with spices and curd. Grill or fry lightly. Prepare tomato gravy with butter and cream. Add chicken and simmer for 10 minutes.",Punjabi
+Chicken Curry,"Chicken, onion, tomato, ginger garlic, spices","Heat oil and fry onions. Add ginger garlic paste and tomatoes. Add spices and chicken. Cook until chicken is tender.",Indian
+Hyderabadi Chicken Biryani,"Basmati rice, chicken, curd, spices, mint, fried onions","Marinate chicken. Parboil rice. Layer rice and chicken. Cook on dum for 20 minutes.",Hyderabadi
+Mutton Rogan Josh,"Mutton, onion, yogurt, Kashmiri spices","Cook mutton with spices and yogurt. Simmer till meat is soft and gravy thick.",Kashmiri
+Fish Curry,"Fish, onion, tomato, tamarind, spices","Fry fish lightly. Prepare onion tomato gravy. Add fish and simmer for 10 minutes.",Coastal
+Goan Fish Curry,"Fish, coconut milk, tamarind, spices","Cook spices with coconut milk. Add fish and simmer gently.",Goan
+Chicken Chettinad,"Chicken, coconut, pepper, spices","Roast spices and grind. Cook chicken with masala and coconut paste.",Chettinad
+Pepper Chicken,"Chicken, black pepper, curry leaves","Cook chicken with crushed pepper and spices. Fry till dry.",South Indian
+Egg Curry,"Boiled eggs, onion, tomato, spices","Prepare onion tomato gravy. Add eggs and simmer.",Indian
+Egg Bhurji,"Eggs, onion, tomato, green chilli","Scramble eggs with onion tomato masala.",Indian
+Chicken 65,"Chicken, curd, chilli, curry leaves","Marinate chicken. Deep fry. Toss with chilli and curry leaves.",South Indian
+Kolkata Chicken Rezala,"Chicken, cashew paste, yogurt, spices","Cook chicken in rich cashew yogurt gravy.",Bengali
+Mutton Keema,"Minced mutton, onion, tomato, peas","Cook keema with onion tomato masala and spices.",North Indian
+Fish Fry,"Fish, turmeric, chilli powder, oil","Marinate fish and shallow fry till crispy.",Coastal
+Prawn Masala,"Prawns, onion, tomato, spices","Cook prawns in spicy onion tomato gravy.",Coastal
+Chicken Korma,"Chicken, yogurt, cashew paste, spices","Cook chicken in creamy cashew yogurt gravy.",Mughlai
+Andhra Chicken Curry,"Chicken, red chilli, curry leaves, spices","Cook chicken with Andhra spice paste and tempering.",Andhra
+Malabar Chicken Curry,"Chicken, coconut milk, spices","Cook chicken in coconut based gravy.",Kerala
+Chicken Sukka,"Chicken, coconut, spices","Cook chicken dry with roasted coconut masala.",Mangalorean
+Mutton Biryani,"Basmati rice, mutton, spices, mint","Layer cooked mutton and rice. Dum cook for 25 minutes.",Hyderabadi
+Rajasthani Dal Baati Churma,"Wheat flour, semolina, ghee, mixed dals, jaggery","Prepare hard dough balls and bake. Cook mixed dal with spices. Crush baati with ghee and serve with dal and churma.",Rajasthani
+Laal Maas,"Mutton, red chillies, garlic, yogurt","Cook mutton with red chilli paste and garlic. Simmer until tender.",Rajasthani
+Gatte Ki Sabzi,"Besan, curd, spices","Prepare besan rolls. Cook curd gravy and add gatte.",Rajasthani
+Kerala Appam,"Rice, coconut, yeast","Ferment batter and cook appams in pan.",Kerala
+Vegetable Stew,"Vegetables, coconut milk, spices","Cook vegetables in coconut milk with mild spices.",Kerala
+Puttu,"Rice flour, coconut","Steam layered rice flour and coconut.",Kerala
+Malabar Parotta,"Maida, milk, oil","Prepare soft dough, roll thin and cook on tawa.",Kerala
+Meen Pollichathu,"Fish, banana leaf, spices","Marinate fish and wrap in banana leaf. Pan cook.",Kerala
+Avial,"Mixed vegetables, coconut, curd","Cook vegetables and mix with coconut paste.",Kerala
+Tamil Nadu Veg Kurma,"Vegetables, coconut, spices","Cook vegetables in coconut based gravy.",Tamil Nadu
+Kothu Parotta,"Parotta, egg, onion, spices","Chop parotta and stir fry with masala.",Tamil Nadu
+Kara Kuzhambu,"Tamarind, vegetables, spices","Prepare tamarind gravy and cook vegetables.",Tamil Nadu
+Pesarattu,"Green gram, ginger, cumin","Grind batter and make dosa.",Andhra
+Gongura Chicken,"Chicken, gongura leaves, spices","Cook chicken with gongura leaves and spices.",Andhra
+Pulihora,"Rice, tamarind, peanuts, spices","Mix tamarind tempering with rice.",Andhra
+Bisi Bele Bath,"Rice, dal, vegetables, spices","Cook rice dal and vegetables with spice mix.",Karnataka
+Mysore Masala Dosa,"Dosa batter, potato, chutney","Spread red chutney on dosa and add potato masala.",Karnataka
+Neer Dosa,"Rice, coconut","Prepare thin batter and cook dosa.",Karnataka
+Chicken Ghee Roast,"Chicken, ghee, red chilli paste","Roast chicken in ghee with chilli masala.",Mangalorean
+Saoji Chicken,"Chicken, saoji masala","Cook chicken in spicy saoji masala.",Maharashtrian
+Puran Poli,"Wheat flour, chana dal, jaggery","Prepare sweet filling and cook stuffed roti.",Maharashtrian
+Misal Pav,"Sprouts, spices, farsan","Cook sprouts curry and serve with pav.",Maharashtrian
+Thalipeeth,"Multigrain flour, spices","Prepare dough and cook flatbread.",Maharashtrian
+Bharli Vangi,"Brinjal, peanuts, coconut, spices","Stuff brinjal and cook in gravy.",Maharashtrian
+Kosha Mangsho,"Mutton, onion, spices","Slow cook mutton till thick gravy.",Bengali
+Shorshe Ilish,"Hilsa fish, mustard paste","Cook fish in mustard gravy.",Bengali
+Chingri Malai Curry,"Prawns, coconut milk","Cook prawns in creamy coconut gravy.",Bengali
+Luchi Aloo Dum,"Flour, potato, spices","Fry luchi and cook spicy aloo curry.",Bengali
+Dalma,"Dal, vegetables, spices","Cook dal with vegetables.",Odia
+Chuda Mix,"Flattened rice, peanuts, spices","Mix roasted ingredients and serve.",Odia
+Machha Besara,"Fish, mustard paste","Cook fish in mustard gravy.",Odia
+Litti Chokha,"Wheat flour, sattu, brinjal","Bake litti and serve with chokha.",Bihari
+Sattu Paratha,"Wheat flour, sattu, spices","Stuff sattu and cook paratha.",Bihari
+Champaran Meat,"Mutton, garlic, spices","Slow cook meat sealed in pot.",Bihari
+Sarson Da Saag,"Mustard greens, spices","Cook greens and blend. Serve with makki roti.",Punjabi
+Makki Di Roti,"Maize flour, water","Prepare dough and cook flatbread.",Punjabi
+Amritsari Fish,"Fish, gram flour, spices","Coat fish and deep fry.",Punjabi

@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Use Android's base theme - Compose will override with Material3 -->
+    <style name="Theme.SwasthVision" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+</resources>
